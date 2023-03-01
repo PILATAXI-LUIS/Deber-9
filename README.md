@@ -1,8 +1,7 @@
 ## 1._ Objetivos
 
-### Generales: 
-
-### Especificos: 
+- Reconocer y analizar sircuitos RLC conociendo sus deversas partes y interacciones entre si en sistemas Ac y Cd.
+- Reconocer los deiferentes tipos de filtros y comprender las diversas apliaciones que pueden presentar cada uno.
 
 ## 2._ Marco teorico
 
@@ -62,11 +61,11 @@
 
 ![image](https://user-images.githubusercontent.com/116705680/221789329-9c282a35-5905-441a-93ab-d5d87b8ddac9.png)
 
-
-
 ## 4._ Video
 
 ## 5._ Conclusiones
+
+- Los circuitos RLC funcionan generalmente como un circuito RL y RC combinados, en los que tambiem presentan superposicion en su forma de interactuar al ingresar ambos en un mismo circuito. Su analisis se lo puede realizar de la misma manera que uno combencional pero siempre considerando las interacciones que produce en otro componente por eceparado.
 
 ## 6._ Bibliografia 
 
